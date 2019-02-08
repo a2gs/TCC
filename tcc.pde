@@ -4,11 +4,11 @@
  *                                                              *
  * FEI - Faculdade de Engenharia Industrial / SBC-2013          *
  *                                                              *
- * Alzira Andrade							12.103.384-9                *
- * Andre Augusto Giannotti Scota		12.105.234-4                *
- * Gustavo Andretta						12.204.246-8                *
- * Messias Seliguim						12.204.252-6                *
- * Thiago Munhoz							12.204.172-6                *
+ * Alzira Andrade                   12.103.384-9                *
+ * Andre Augusto Giannotti Scota    12.105.234-4                *
+ * Gustavo Andretta                 12.204.246-8                *
+ * Messias Seliguim                 12.204.252-6                *
+ * Thiago Munhoz                    12.204.172-6                *
  *                                                              *
  * By persistence! Yesterday, Today and Forever!                *
  *                                                              *
